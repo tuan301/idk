@@ -13,7 +13,6 @@ textLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 textLabel.TextScaled = true
 textLabel.Text = "Whale Caught: 0"
 
--- Hàm đếm số Blue Whale
 local function countBlueWhale()
     local count = 0
     if backpack then
