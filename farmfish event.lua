@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
 local player = game.Players.LocalPlayer
 local backpack = player:WaitForChild("Backpack")
 local screenGui = Instance.new("ScreenGui")
